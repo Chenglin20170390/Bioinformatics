@@ -1,5 +1,11 @@
 # Depth analysis from genome alignment
 
+##quickly stats  depth and covrage (https://github.com/HuiyangYu/PanDepth)
+```
+pandepth -i test.bam -o test1 -t 36
+
+```
+
 - Alignment
 ```
 ref=/home/work/1_reference/DM_v6.1_all_chr.fa
